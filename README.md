@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mathur</h1>
 <h3 align="center">A passionate cloud and DevOps enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4502902-DevOps-engineer-animation/attachments/10432181?mode=media">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fameyacloud.in%2Fwp-content%2Fuploads%2F2022%2F05%2FCLF-C01.gif&tbnid=KRtnBMVrd8P9tM&vet=12ahUKEwjFzPT3wr3_AhVrjNgFHYiyATMQMyhcegUIARDJAQ..i&imgrefurl=https%3A%2F%2Fameyacloud.in%2Faws-certified-cloud-practitioner-clf-c01%2F&docid=nCq2nsXKb-GBnM&w=600&h=600&q=cloud%20engineer%20gif&client=ubuntu-sn&ved=2ahUKEwjFzPT3wr3_AhVrjNgFHYiyATMQMyhcegUIARDJAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmathur90&label=Profile%20views&color=0e75b6&style=flat" alt="gmathur90" /> </p>
 
