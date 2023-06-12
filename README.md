@@ -33,9 +33,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmathur90&" alt="gmathur90" /></p>
 
-## <a href="https://gauravm.hashnode.dev/"><img src="![hashnode logo](https://github.com/GMATHUR90/GMATHUR90/assets/106548243/fd6b7218-14d9-4394-8921-504f2c8cadd9)" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode
+## <a href="https://gauravm.hashnode.dev/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode
 
-## <a href="https://gauravm.hashnode.dev/"><img src="https://github.com/GMATHUR90/GMATHUR90/assets/106548243/fd6b7218-14d9-4394-8921-504f2c8cadd9.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
