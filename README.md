@@ -35,9 +35,11 @@
 
 ## <a href="https://gauravm.hashnode.dev/"><img src="![hashnode logo](https://github.com/GMATHUR90/GMATHUR90/assets/106548243/fd6b7218-14d9-4394-8921-504f2c8cadd9)" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode
 
+## <a href="https://gauravm.hashnode.dev/"><img src="https://github.com/GMATHUR90/GMATHUR90/assets/106548243/fd6b7218-14d9-4394-8921-504f2c8cadd9.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode
+
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://gauravm.hashnode.dev/day-1-of-90daysofdevops" title="Day-1 of #90DaysOfDevOps"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" alt="Day-1 of #90DaysOfDevOps" width="250px" align="left" /></a>
+<a href="https://gauravm.hashnode.dev/day-1-of-90daysofdevops" title="Day-1 of #90DaysOfDevOps"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685630554073/ab611c02-4358-4b7e-910e-18ea5f725ea9.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Day-1 of #90DaysOfDevOps" width="250px" align="left" /></a>
 <a href="https://gauravm.hashnode.dev/day-1-of-90daysofdevops" title="Day-1 of #90DaysOfDevOps"><strong>Day-1 of #90DaysOfDevOps</strong></a>
 <br/> Introduction
 I am writing this blog as a challenge I have taken up and that is 90dayofdevops by Shubham Londhe . I will follow the task given by Shubham from his Github account https://github.com/LondheShubham153 on a day-wise basis </p> <br/> <br/>
@@ -47,3 +49,4 @@ I am writing this blog as a challenge I have taken up and that is 90dayofdevops 
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
 <p><a href="https://gauravm.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
+
