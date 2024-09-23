@@ -22,7 +22,7 @@
 ☁️ **Certified Azure Administrator**  
 I hold the [Azure Administrator certification](https://learn.microsoft.com/en-us/users/gauravmathur-7938/credentials/b3393d06a54daee2) and have hands-on experience managing and deploying cloud resources on Azure.
 
-💼 **Looking for opportunities** as a **System Administrator**, **Cloud Engineer**, or **DevOps Engineer**. If you have an opportunity that aligns with these roles, feel free to reach out!
+💼 **Looking for opportunities** as a **System Administrator** / **Cloud Engineer** / **DevOps Engineer**. If you have an opportunity that aligns with these roles, feel free to reach out!
 
 📫 **How to reach me**:  
 [![Gmail Badge](https://img.shields.io/badge/-ecegauravmathur90@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ecegauravmathur90@gmail.com)
