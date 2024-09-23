@@ -19,6 +19,9 @@
 
 🚀 **Learning Python with a focus on DevOps** and working on a **[GitHub-Jenkins Integration Project](https://github.com/GMATHUR90/Github_jira_integration)** using Python.
 
+☁️ **Certified Azure Administrator**  
+I hold the [Azure Administrator certification](https://learn.microsoft.com/en-us/users/gauravmathur-7938/credentials/b3393d06a54daee2) and have hands-on experience managing and deploying cloud resources on Azure.
+
 💼 **Looking for opportunities** as a **System Administrator**, **Cloud Engineer**, or **DevOps Engineer**. If you have an opportunity that aligns with these roles, feel free to reach out!
 
 📫 **How to reach me**:  
