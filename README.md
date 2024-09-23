@@ -15,10 +15,15 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [90DaysOfDevOps](https://github.com/GMATHUR90/90DaysOfDevOps)
-- 🌱 I’m currently learning **Cloud Computing and DevOps**
-- 📝 I regularly write articles on [Hashnode](https://gauravm.hashnode.dev/)
-- 📫 How to reach me **ecegauravmathur90@gmail.com**
+🔧 **Currently preparing for the** [RedHat Certified System Administrator (RHCSA)](https://www.redhat.com/en/services/certification/rhcsa) certification. I frequently upload my learning progress to my [RHCSA Preparation Repository](https://github.com/GMATHUR90/rhcsa-prep).
+
+🚀 **Learning Python with a focus on DevOps** and working on a **[GitHub-Jenkins Integration Project](https://github.com/GMATHUR90/Github_jira_integration)** using Python.
+
+💼 **Looking for opportunities** as a **System Administrator**, **Cloud Engineer**, or **DevOps Engineer**. If you have an opportunity that aligns with these roles, feel free to reach out!
+
+📫 **How to reach me**:  
+[![Gmail Badge](https://img.shields.io/badge/-ecegauravmathur90@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ecegauravmathur90@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
