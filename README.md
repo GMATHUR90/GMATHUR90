@@ -1,13 +1,11 @@
 [![MasterHead](https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif)](https://github.com/GMATHUR90)
 
-<h1 align="center"> # Hi 👋, I'm Gaurav Mathur
-
-A passionate cloud and DevOps enthusiast from India, I am committed to leveraging technology to solve real-world problems and streamline processes. With a strong foundation in cloud computing, CI/CD pipelines, and infrastructure automation, I enjoy exploring new tools and best practices in the DevOps ecosystem.
+<h1 align="center"> # Hi 👋, I'm Gaurav Mathur</h1>
+<h3 align="center">A passionate cloud and DevOps enthusiast from India, I am committed to leveraging technology to solve real-world problems and streamline processes. With a strong foundation in cloud computing, CI/CD pipelines, and infrastructure automation, I enjoy exploring new tools and best practices in the DevOps ecosystem.
 
 I believe in continuous learning and strive to keep up with the latest trends and technologies in the industry. Whether it’s designing scalable architectures or automating workflows, I’m always looking for ways to enhance efficiency and deliver value.
 
-Feel free to explore my projects and connect with me! </h1>
-<h3 align="center">A passionate cloud and DevOps enthusiast from India</h3>
+Feel free to explore my projects and connect with me!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6129020/cloud_computing.gif">
 
